@@ -1,0 +1,7 @@
+{
+ "glug": {  category : "player",
+    "sounds": [
+      "bf_idw/player/glug"
+    ]
+ }
+}
