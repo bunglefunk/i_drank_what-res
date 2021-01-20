@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/gold_nugget"
+    },
+
+    "overrides": [
+  		{ "predicate": {"custom_model_data": 100}, "model": "item/conk/conk_vessel"},
+      { "predicate": {"custom_model_data": 101}, "model": "item/bepsi/bepsi_bottle"},
+      { "predicate": {"custom_model_data": 102}, "model": "item/water/bungled_bottle"}
+
+ ]
+}

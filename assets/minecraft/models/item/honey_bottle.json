@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/honey_bottle"
+    },
+
+    "overrides": [
+  		{ "predicate": {"custom_model_data": 10000}, "model": "item/conk/conk"},
+      { "predicate": {"custom_model_data": 10100}, "model": "item/bepsi/bepsi"},
+      { "predicate": {"custom_model_data": 10200}, "model": "item/water/bungled_water"}
+ ]
+}
